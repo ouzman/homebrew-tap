@@ -1,8 +1,8 @@
 class Agentbox < Formula
   desc "Run coding agents in throwaway containers with a dind sidecar"
   homepage "https://github.com/ouzman/agentbox"
-  url "https://github.com/ouzman/agentbox/archive/refs/tags/v0.0.5.tar.gz"
-  sha256 "52ab714b5bd9dbc5c91e2bb0251227f14d337e4855adad9f4577892a6557b5ab"
+  url "https://github.com/ouzman/agentbox/archive/refs/tags/v0.0.6.tar.gz"
+  sha256 "34922ad532498c3d65293bd706ab68dbf890c1228d633086ceff8908dc21ee40"
   head "https://github.com/ouzman/agentbox.git", branch: "main"
 
   def install
